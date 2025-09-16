@@ -22,7 +22,7 @@ var lyr_SafetyVulnerabilityScore_1 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_SafetyVulnerabilityScore_1, 
                 style: style_SafetyVulnerabilityScore_1,
-                popuplayertitle: 'Safety Vulnerability Score',
+                popuplayertitle: '',
                 interactive: true,
                 title: ''
             });
