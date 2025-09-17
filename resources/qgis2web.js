@@ -486,7 +486,7 @@ var Abstract = new ol.control.Control({
             hideAbstract();
         } else {
             linkElement.classList.add("project-abstract-uncollapsed");
-            linkElement.innerHTML = '<h4>With the Kochi Integrated Transportation Dashboard, we aim to understand <br>the accessibility of the various modes of transport within Kochi, encapsulating all three<br>dimensions of sustainability<br>(environmental, economic, and social).</h4><h5>Click on a ward to see information for it. <br />Click the top-right button to hide/reveal wards or points. <br />Navigate to the rest of themes with the links in the bottom left.</h5>';
+            linkElement.innerHTML = '<h4>With the Kochi Integrated Transportation Dashboard, we aim to understand the accessibility of the various<br>modes of transport within Kochi, encapsulating all three<br>dimensions of sustainability<br>(environmental, economic, and social).</h4><h5>Click on a ward to see information for it. <br />Click the top-right button to hide/reveal wards or points. <br />Navigate to the rest of themes with the links in the bottom left.</h5>';
         }
 
         titleElement.appendChild(linkElement);
@@ -975,6 +975,7 @@ document.addEventListener('DOMContentLoaded', function() {
         bottomRightContainerDiv.appendChild(attributionControl);
 
     }
+
 
 
 
