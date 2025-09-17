@@ -206,7 +206,7 @@ td video {
 }
 
 .project-abstract-uncollapsed {
-    width: auto;
+    width: 150px;
     height: auto;
     display: block;
     padding: 3px;
@@ -410,5 +410,6 @@ td video {
 	list-style: none;	
 
 	}
+
 
 
