@@ -82,7 +82,7 @@ var lyr_Busstopswithaphysicalstructure_5 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_Busstopswithaphysicalstructure_5, 
                 style: style_Busstopswithaphysicalstructure_5,
-                popuplayertitle: 'Bus stops with a physical structure',
+                popuplayertitle: '',
                 interactive: true,
                 title: '<img src="styles/legend/Busstopswithaphysicalstructure_5.png" /> Bus stops with a physical structure'
             });
@@ -97,7 +97,7 @@ var lyr_Busstopswithnophysicalstructure_6 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_Busstopswithnophysicalstructure_6, 
                 style: style_Busstopswithnophysicalstructure_6,
-                popuplayertitle: 'Bus stops with no physical structure',
+                popuplayertitle: '',
                 interactive: false,
                 title: '<img src="styles/legend/Busstopswithnophysicalstructure_6.png" /> Bus stops with no physical structure'
             });
