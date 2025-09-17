@@ -39,7 +39,7 @@ var lyr_CostEfficiencyrupeeskm_2 = new ol.layer.Vector({
                 style: style_CostEfficiencyrupeeskm_2,
                 popuplayertitle: 'Cost Efficiency (rupees/km)',
                 interactive: true,
-    title: 'Cost Efficiency (rupees/km)<br><i><p style="color:red">Redder</p> wards = more expensive to travel</i><br />\
+    title: '<b>Cost Efficiency (rupees/km)</b><br><i><p style="color:red">Redder</p> wards = more expensive to travel</i><br />\
     ' });
 var format_Metrostationswheretheroadbelowgetsfloodedduringrainyseason_3 = new ol.format.GeoJSON();
 var features_Metrostationswheretheroadbelowgetsfloodedduringrainyseason_3 = format_Metrostationswheretheroadbelowgetsfloodedduringrainyseason_3.readFeatures(json_Metrostationswheretheroadbelowgetsfloodedduringrainyseason_3, 
